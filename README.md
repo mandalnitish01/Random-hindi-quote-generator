@@ -10,4 +10,4 @@
 
 # preview LINK:- https://random-hindi-quote-generator.vercel.app/
 
-#GIthub LINK :- https://github.com/mandalnitish01/Random-hindi-quote-generator
+# GIthub LINK :- https://github.com/mandalnitish01/Random-hindi-quote-generator
